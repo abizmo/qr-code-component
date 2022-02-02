@@ -1,6 +1,6 @@
 {
   "name": "qr-code-component",
-  "homepage":"https://abizmo.github.io/qr-code-component",
+  "homepage": "https://abizmo.github.io/qr-code-component",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
